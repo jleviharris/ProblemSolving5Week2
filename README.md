@@ -1,2 +1,2 @@
-# ProblemSolving4Week2
-devCodeCamp problem solving worksheet 4 (week 2)
+# ProblemSolving5Week2
+devCodeCamp problem solving worksheet 5 (week 2)
